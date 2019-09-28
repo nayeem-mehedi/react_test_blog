@@ -1,0 +1,5 @@
+export const USER_SIGNUP = 'USER_SIGNUP';
+export const PUBLISH_POST = 'PUBLISH_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const PUBLISH_COMMENT = 'PUBLISH_COMMENT';
+export const DELETE_COMMENT = 'DELETE_COMMENT';

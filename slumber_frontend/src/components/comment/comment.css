@@ -1,0 +1,44 @@
+.comment-card-wrapper {
+    padding: 10px;
+}
+
+.comment-card {
+    min-height: 50px;
+}
+
+.comment-card .row {
+    height: auto;
+}
+
+.comment-avatar {
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+/* .comment-card .row .media {
+    padding-top: 20px;
+} */
+
+.comment-details {
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.comment-details .row label, .comment-details .row small label {
+    padding-right: 10px;
+}
+
+.comment-details .row label span, .comment-details .row small label span {
+    font-weight: 700;
+}
+
+/* .comment-button {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+} */

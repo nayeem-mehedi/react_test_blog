@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "total": 2,
+  "size": 2,
+  "comments": [
+    {
+      "body": "Nice Post! Thanks for Sharing!",
+      "id": 1,
+      "created": "2019-09-24T01:04:10.004+0000",
+      "updated": "2019-09-24T01:04:10.004+0000",
+      "article_id": 2,
+      "comment_user": {
+        "id": 2,
+        "name": "dummy_blogger_1"
+      }
+    },
+    {
+      "body": "WOW!",
+      "id": 2,
+      "created": "2019-09-24T01:04:10.004+0000",
+      "updated": "2019-09-24T01:04:10.004+0000",
+      "article_id": 2,
+      "comment_user": {
+        "id": 3,
+        "name": "nayeem"
+      }
+    }
+  ]
+}

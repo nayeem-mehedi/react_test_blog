@@ -1,0 +1,14 @@
+{
+    "access_token": "eyJhbGciOiJIUzUxMiJ9.eyJhdXRoIjoiUk9MRV9BRE1JTiIsInN1YiI6ImR1bW15IiwiaWF0IjoxNTY5NDM4OTkxLCJleHAiOjE1NzAwNDM3OTF9.VPwgNf3PuQomDEMtbnJ68EAX1-qGWQ2hJUHp5QTNT0beE8xFHHs82FK_5LfY0Gv2a6rx3P8kdK1rFdeJx2XG3A",
+    "refresh_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdW1teSIsImlhdCI6MTU2OTQzODk5MSwiZXhwIjoxNTcwMDQzNzkxfQ.ci7rtuJpnnyBoxh2QxmFB8bYg8UFuKn_IYoalZQ4bIA",
+    "user": {
+      "username": "dummy",
+      "id": 1,
+      "name": "dummy_account",
+      "status": 2,
+      "role": "ADMIN",
+      "created": "2019-09-25T19:16:20.146+0000",
+      "updated": "2019-09-25T19:16:20.146+0000",
+      "articles": []
+    }
+  }

@@ -1,0 +1,37 @@
+.blogger-card-wrapper {
+    padding: 10px;
+}
+
+.blogger-card {
+    background-color: #F5F5F5 !important;
+    border-color: #9E9E9E !important;
+}
+
+.blogger-avatar {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.blogger-details {
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.blogger-details .row label, .blogger-details .row small label {
+    padding-right: 10px;
+}
+
+.blogger-details .row label span, .blogger-details .row small label span {
+    font-weight: 700;
+}
+
+.blogger-button {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}

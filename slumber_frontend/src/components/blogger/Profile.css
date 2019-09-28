@@ -1,0 +1,44 @@
+.profile-card-wrapper {
+    padding: 10px;
+}
+
+.profile-card {
+    min-height: 150px;
+}
+
+.profile-card .row {
+    height: auto;
+}
+
+.profile-avatar {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.profile-card .row .media {
+    padding-top: 20px;
+}
+
+.profile-details {
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.profile-details .row label, .profile-details .row small label {
+    padding-right: 10px;
+}
+
+.profile-details .row label span, .profile-details .row small label span {
+    font-weight: 700;
+}
+
+.profile-button {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}

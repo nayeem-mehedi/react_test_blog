@@ -1,0 +1,143 @@
+{
+  "page": 1,
+  "total": 3,
+  "size": 3,
+  "articles": [
+    {
+      "id": 0,
+      "title": "Test Subject",
+      "user": {
+        "username": "dummy_blogger_1",
+        "id": 2
+      },
+      "coverImage":"https://placekitten.com/g/800/300",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit ut sapien in fermentum. In suscipit varius tincidunt. Mauris tempus nulla lobortis turpis dapibus blandit. Mauris risus est, viverra vitae risus ultricies, blandit lacinia nunc. Praesent eget lacinia augue. Aliquam mollis dictum efficitur.",
+      "body": "<p>Hey this <strong>editor</strong> rocks 😀</p><p></p><p><strong>Here</strong> is a beautiful place to visit. 😇<sup><em> ZzzZz</em></sup>z</p> <img src=\"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F201162635%2Fm%253D900%2Feec41a376b3133b0ed176ea5a6b22434&f=1&nofb=1\" alt=\"undefined\" style=\"float:none;height: auto;width: auto\"/><p></p>",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 0,
+      "reactionsNumber": 2
+    },
+    {
+      "id": 1,
+      "title": "Vlog 2",
+      "user": {
+        "username": "dummy_blogger_1",
+        "id": 2
+      },
+      "coverImage":"https://placekitten.com/g/300/300",
+      "summary": "A VLOG Article on my last trip to Italy",
+      "body": "<p><strong>Here</strong> is a beautiful place to visit. 😇<sup><em> ZzzZz</em></sup>z</p> <img src=\"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F201162635%2Fm%253D900%2Feec41a376b3133b0ed176ea5a6b22434&f=1&nofb=1\" alt=\"undefined\" style=\"float:none;height: 200px;width: auto\"/><p></p>",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "reactionsNumber": 0
+    },
+    {
+      "id": 2,
+      "title": "CyberPunk 2077",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    },
+    {
+      "id": 3,
+      "title": "CyberPunk 3333",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://source.unsplash.com/random/600x400",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    },
+    {
+      "id": 4,
+      "title": "CyberPunk 4444",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://source.unsplash.com/random/600x400",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    },
+    {
+      "id": 5,
+      "title": "CyberPunk 5555",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://source.unsplash.com/random/600x400",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    },
+    {
+      "id": 6,
+      "title": "CyberPunk 6666",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://source.unsplash.com/random/600x400",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    },
+    {
+      "id": 7,
+      "title": "CyberPunk 7777",
+      "user": {
+        "username": "nayeem",
+        "id": 3
+      },
+      "coverImage":"https://source.unsplash.com/random/600x400",
+      "summary": "This next Gen Net Runner game will make your head spin",
+      "body": "<p><strong>CyberPunk 2077</strong> Unveiled!!! 👊<p>Here is a Quick Sneak Peek 😉 from the upcoming masterpiece from<span style=color:#b8312f><strong><em> CD Projekt Re</em></strong></span>d</p><img alt=undefined src=https://farm1.static.flickr.com/737/31137110124_cb67f47c13_b.jpg style=float:none;height:auto;width:auto><p><p>See You Next Time 😋",
+      "approval_state": 2,
+      "delete_flag": 0,
+      "created": "2019-09-24T01:04:10.003+0000",
+      "updated": "2019-09-24T01:04:10.003+0000",
+      "commentsNumber": 2,
+      "likesNumber": 2
+    }
+  ]
+}

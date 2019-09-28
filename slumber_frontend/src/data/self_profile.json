@@ -1,0 +1,47 @@
+{
+  "user": {
+    "username": "dummy_blogger_1",
+    "id": 2,
+    "name": "dummy_blogger_1",
+    "status": 2,
+    "role": "BLOGGER",
+    "created": "2019-09-24T01:04:10.000+0000",
+    "updated": "2019-09-24T01:04:10.000+0000",
+    "articles": [
+      {
+        "id": 1,
+        "title": "Test Subject",
+        "user": {
+          "username": "dummy_blogger_1",
+          "id": 2
+        },
+        "coverImage":"https://placekitten.com/g/500/300",
+        "summary": "A Test Article to see if the article list is showing properly or not",
+        "body": "<p>Hey this <strong>editor</strong> rocks 😀</p><p></p><p><strong>Here</strong> is a beautiful place to visit. 😇<sup><em> ZzzZz</em></sup>z</p> <img src=\"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F201162635%2Fm%253D900%2Feec41a376b3133b0ed176ea5a6b22434&f=1&nofb=1\" alt=\"undefined\" style=\"float:none;height: auto;width: auto\"/><p></p>",
+        "approval_state": 2,
+        "delete_flag": 0,
+        "created": "2019-09-24T01:04:10.003+0000",
+        "updated": "2019-09-24T01:04:10.003+0000",
+        "commentsNumber": 0,
+        "reactionsNumber": 2
+      },
+      {
+        "id": 1,
+        "title": "Vlog 2",
+        "user": {
+          "username": "dummy_blogger_1",
+          "id": 2
+        },
+        "coverImage":"https://placekitten.com/g/500/300",
+        "summary": "A VLOG Article on my last trip to Italy",
+        "body": "<p><strong>Here</strong> is a beautiful place to visit. 😇<sup><em> ZzzZz</em></sup>z</p> <img src=\"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F201162635%2Fm%253D900%2Feec41a376b3133b0ed176ea5a6b22434&f=1&nofb=1\" alt=\"undefined\" style=\"float:none;height: 200px;width: auto\"/><p></p>",
+        "approval_state": 2,
+        "delete_flag": 0,
+        "created": "2019-09-24T01:04:10.003+0000",
+        "updated": "2019-09-24T01:04:10.003+0000",
+        "commentsNumber": 2,
+        "reactionsNumber": 0
+      }
+    ]
+  }
+}

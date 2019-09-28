@@ -1,0 +1,22 @@
+.article-card {
+    background-color: #F5F5F5 !important;
+    border-color: #9E9E9E !important;
+}
+
+.article-card .card-body {
+    padding-bottom: 0 !important;
+}
+
+.article-card .card-title h5 span {
+    font-weight: 700;
+}
+
+.article-card img {
+    max-width: 540px;
+    height: auto;
+}
+
+/* .article-card button a {
+    text-decoration: none;
+    display: inline-block;
+} */
